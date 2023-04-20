@@ -1,8 +1,7 @@
 {
-   "hello": "world",
-   "one": "two",
-   "foo": [
-      "baz",
-      "bar"
-   ]
+  "hello": "world",
+  "example": 1,
+  "array": [
+    "bar"
+  ]
 }
